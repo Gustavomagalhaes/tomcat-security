@@ -1552,3 +1552,5 @@ Feb 05, 2017 7:38:46 PM org.apache.coyote.AbstractProtocol start
 INFO: Starting ProtocolHandler ["ajp-bio-8009"]
 Feb 05, 2017 7:38:46 PM org.apache.catalina.startup.Catalina start
 INFO: Server startup in 976 ms
+Feb 20, 2017 12:15:52 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]

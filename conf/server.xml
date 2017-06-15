@@ -125,7 +125,7 @@
       <Cluster className="org.apache.catalina.ha.tcp.SimpleTcpCluster"/>
       -->
 
-			<!-- N5.1. Limitar tentativas de acesso para evitar ataque de força bruta -->
+			<!-- N7. Limitar tentativas de acesso para evitar ataque de força bruta -->
       <!-- Use the LockOutRealm to prevent attempts to guess user passwords
            via a brute-force attack --> 
       <Realm className="org.apache.catalina.realm.LockOutRealm">
